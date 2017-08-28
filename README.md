@@ -1,6 +1,6 @@
 # readme
 
-- My Name:
-- My Date of Birth:
-- My Computer of Choice:
-- My Favorite Movie:
+- My Name: Bennie O'Neal
+- My Date of Birth: 10/30/96
+- My Computer of Choice: HP, I guess.
+- My Favorite Movie: The Godfather
